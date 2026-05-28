@@ -1,6 +1,8 @@
 # Superconducting-qubit-dynamics-and-MQT
 Superconducting trasmon qubit charaterization via Rabi, Ramsey, Spin Echo protocols, and Macroscopic Quantum Tunneling measurements on a Josephson Junction.
 
+### Due to laboratory data-sharing restrictions, raw experimental data are not publicly available.
+
 ## Features:
 - Macroscopic quantum Tunneling data analysis both in normal and phase diffusion phases
 - Single trasmon qubit characterization:
