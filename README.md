@@ -1,2 +1,12 @@
 # Superconducting-qubit-dynamics-and-MQT
-Data analysis of macroscopic quantum tunneling, Ramsey, Rabi, spin echo protocols on a single qubit obtained at the superconducting quantum computer of University Federico II, Naples
+Superconducting trasmon qubit charaterization via Rabi, Ramsey, Spin Echo protocols, and Macroscopic Quantum Tunneling measurements.
+
+## Features:
+- Macroscopic quantum Tunneling data analysis both in normal and phase diffusion phases
+- Single trasmon qubit characterization:
+  - Rabi oscillations
+  - Ramsey
+  - Spin echo
+  - Decoherence times
+  - T1, T2, T2* times
+  - Reflection amplitude and complex phase data analysis approach
